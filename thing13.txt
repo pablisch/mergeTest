@@ -1,1 +1,1 @@
-Thing 13 is ALSO created on main branch
+Thing 13 was created on both the  main branch and the broken branch!
